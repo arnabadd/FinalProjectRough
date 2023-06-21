@@ -135,37 +135,6 @@ public class GSD extends BaseClass{
 		}
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 //	@FindBy(xpath="//div[@role='link']")
 //	List<WebElement> list;
 //	public void listItems() {
